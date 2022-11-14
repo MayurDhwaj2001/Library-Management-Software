@@ -1,0 +1,18 @@
+C:\Users\Mayur\source\repos\Library Management\Library Management\bin\Debug\Library Management.exe.config
+C:\Users\Mayur\source\repos\Library Management\Library Management\bin\Debug\Library Management.exe
+C:\Users\Mayur\source\repos\Library Management\Library Management\bin\Debug\Library Management.pdb
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library Management.csproj.AssemblyReference.cache
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library_Management.Properties.Resources.resources
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library Management.csproj.GenerateResource.cache
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library Management.csproj.CoreCompileInputs.cache
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library Management.exe
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library Management.pdb
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library_Management.LoginPage.resources
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library_Management.Dashboard.resources
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library_Management.AddBook.resources
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library_Management.AddStudent.resources
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library_Management.ViewBook.resources
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library_Management.ViewStudent.resources
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library_Management.IssueBook.resources
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library_Management.ReturnBook.resources
+C:\Users\Mayur\source\repos\Library Management\Library Management\obj\Debug\Library_Management.NewUser.resources
